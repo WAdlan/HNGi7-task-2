@@ -1,1 +1,0 @@
-console.log("Hello World, this is Isong Josiah with HNGi7 ID HNG-01401 and email isongjosiah@gmail.com using Javascript for stage 2 task")

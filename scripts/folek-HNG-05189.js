@@ -1,1 +1,0 @@
-console.log("Hello World, this is Foluso Kayode with HNGi7 ID HNG-05189 and email folusolibrary@gmail.com using JavaScript for stage 2 task");
