@@ -8,4 +8,5 @@ let SproffData = {
     "Language": "Javascript"
     
 }
-    console.log("Hello World, this is " + SproffData.Full_name   +  " with HNGi7 ID " + SproffData.HNG_ID  + " using " + SproffData.Language  + " for stage 2 task");
+    console.log("Hello World, this is " + SproffData.Full_name   +  " with HNGi7 ID " + SproffData.HNG_ID  + " and " + SproffData.Email + " using " + SproffData.Language  + " for stage 2 task");
+    
